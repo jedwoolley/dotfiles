@@ -1,2 +1,2 @@
 # dotfiles
-I change computers too often not to get good at this.
+I have a config addiction.  No actual work gets done.
